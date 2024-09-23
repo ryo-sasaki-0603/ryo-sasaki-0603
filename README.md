@@ -1,6 +1,6 @@
 # Hi! Welcome to my GitHub! 
 
-## Profile 🤴
+## Profile 
 
 ### Position
 
