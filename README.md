@@ -4,6 +4,7 @@
 
 ### Position
 
+- IT Consultant
 - Infrastructure Specialist
 - Cloud Enginner
 
