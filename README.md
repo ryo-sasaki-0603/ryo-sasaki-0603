@@ -26,7 +26,7 @@
 - Apatche
 - Nginx
 
-### certification
+### Certification
 - AWS Certified Solutions Architect - Professional
 - AWS Certified DevOps Engineer - Professional
 - Microsoft Certified: Azure Solutions Architect Expert
