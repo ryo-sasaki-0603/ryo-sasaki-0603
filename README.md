@@ -27,14 +27,11 @@
 - Nginx
 
 ### certification
--  AWS Certified Solutions Architect - Professional
--  AWS Certified DevOps Engineer - Professional
--  Microsoft Certified: Azure Solutions Architect Expert
-- GCP Professional Cloud Architect
--  PMP (Project Management Professional)
+- AWS Certified Solutions Architect - Professional
+- AWS Certified DevOps Engineer - Professional
+- Microsoft Certified: Azure Solutions Architect Expert
 - LPIC level3
-- FinOps Certified Practitioner
-- Certified Kubernetes Administrator (CKA)
+- Cisco Certified Network Associate
 
 <p align="left">
   <a href="https://github.com/ryo-sasaki-0603">
