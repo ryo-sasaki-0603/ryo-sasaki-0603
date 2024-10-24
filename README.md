@@ -26,6 +26,16 @@
 - Apatche
 - Nginx
 
+### certification
+-  AWS Certified Solutions Architect - Professional
+-  AWS Certified DevOps Engineer - Professional
+-  Microsoft Certified: Azure Solutions Architect Expert
+- GCP Professional Cloud Architect
+-  PMP (Project Management Professional)
+- LPIC level3
+- FinOps Certified Practitioner
+- Certified Kubernetes Administrator (CKA)
+
 <p align="left">
   <a href="https://github.com/ryo-sasaki-0603">
     <img height="20" src="https://komarev.com/ghpvc/?username=ryo-sasaki-0603" />
