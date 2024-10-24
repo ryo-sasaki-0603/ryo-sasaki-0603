@@ -22,7 +22,7 @@
 
 ### Other
 - Terraform
-- Github Action
+- CICD (Github Action)
 - Kubernates
 - Apatche
 - Nginx
